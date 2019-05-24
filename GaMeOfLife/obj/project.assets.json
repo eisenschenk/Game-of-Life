@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eisenschenk\\source\\repos\\GaMeOfLife\\GaMeOfLife\\GaMeOfLife.csproj",
+      "projectUniqueName": "C:\\Users\\eisenschenk\\Documents\\Repositories\\Game-of-Life\\GaMeOfLife\\GaMeOfLife.csproj",
       "projectName": "GaMeOfLife",
-      "projectPath": "C:\\Users\\eisenschenk\\source\\repos\\GaMeOfLife\\GaMeOfLife\\GaMeOfLife.csproj",
+      "projectPath": "C:\\Users\\eisenschenk\\Documents\\Repositories\\Game-of-Life\\GaMeOfLife\\GaMeOfLife.csproj",
       "packagesPath": "C:\\Users\\eisenschenk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eisenschenk\\source\\repos\\GaMeOfLife\\GaMeOfLife\\obj\\",
+      "outputPath": "C:\\Users\\eisenschenk\\Documents\\Repositories\\Game-of-Life\\GaMeOfLife\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

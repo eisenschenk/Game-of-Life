@@ -9,3 +9,14 @@ C:\Users\eisenschenk\source\repos\GaMeOfLife\GaMeOfLife\obj\Debug\netcoreapp2.2\
 C:\Users\eisenschenk\source\repos\GaMeOfLife\GaMeOfLife\obj\Debug\netcoreapp2.2\GaMeOfLife.AssemblyInfo.cs
 C:\Users\eisenschenk\source\repos\GaMeOfLife\GaMeOfLife\obj\Debug\netcoreapp2.2\GaMeOfLife.dll
 C:\Users\eisenschenk\source\repos\GaMeOfLife\GaMeOfLife\obj\Debug\netcoreapp2.2\GaMeOfLife.pdb
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\bin\Debug\netcoreapp2.2\GaMeOfLife.deps.json
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\bin\Debug\netcoreapp2.2\GaMeOfLife.runtimeconfig.json
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\bin\Debug\netcoreapp2.2\GaMeOfLife.runtimeconfig.dev.json
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\bin\Debug\netcoreapp2.2\GaMeOfLife.dll
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\bin\Debug\netcoreapp2.2\GaMeOfLife.pdb
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\obj\Debug\netcoreapp2.2\GaMeOfLife.csprojAssemblyReference.cache
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\obj\Debug\netcoreapp2.2\GaMeOfLife.csproj.CoreCompileInputs.cache
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\obj\Debug\netcoreapp2.2\GaMeOfLife.AssemblyInfoInputs.cache
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\obj\Debug\netcoreapp2.2\GaMeOfLife.AssemblyInfo.cs
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\obj\Debug\netcoreapp2.2\GaMeOfLife.dll
+C:\Users\eisenschenk\Documents\Repositories\Game-of-Life\GaMeOfLife\obj\Debug\netcoreapp2.2\GaMeOfLife.pdb
